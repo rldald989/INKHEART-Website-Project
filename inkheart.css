@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@0;1&display=swap');
+
+body{
+    background-color: #a60b2f;
+}
+
+.title{
+    padding-top: 30px;
+    padding-right: 100px;
+    color: #d9d62f;
+    font-family: 'Sorts Mill Goudy', sans-serif;
+    text-align: center;
+    letter-spacing: 20px;
+    text-shadow: -2px 2px #860826;
+}
+
+.writing{
+    color: white;
+    background-color: #96082c;
+    text-align: center;
+    font-family: 'Sorts Mill Goudy', serif;
+    word-spacing: 8px;
+    letter-spacing: 2px;
+    background-size: 50%;
+    background-size: contain;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px;
+    outline-style: solid;
+    outline-color: #860826;
+    outline-width: 20%;
+}
+
+.top-bar
+{
+    text-align: center;
+    padding-bottom: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+    letter-spacing: 5px;
+    text-shadow: -2px 2px #860826;
+    color: #d9d62f;
+    font-family: 'Sorts Mill Goudy', sans-serif;
+}
+
+.book-binding
+{
+    height: 1000px;
+    width: 100px;
+    float: left;
+    background-repeat: repeat-y;
+    background-image: url("img/inkheart-cover-image.jpeg");
+}
