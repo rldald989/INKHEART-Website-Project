@@ -20,7 +20,7 @@ body{
     background-color: #96082c;
     text-align: center;
     font-family: 'Sorts Mill Goudy', serif;
-    word-spacing: 8px;
+    word-spacing: 6px;
     letter-spacing: 2px;
     background-size: 50%;
     background-size: contain;
@@ -30,6 +30,8 @@ body{
     outline-style: solid;
     outline-color: #860826;
     outline-width: 20%;
+    padding-top: 0.5%;
+    padding-bottom: 1%;
 }
 
 .top-bar
