@@ -22,7 +22,7 @@ body{
     font-family: 'Sorts Mill Goudy', serif;
     word-spacing: 6px;
     letter-spacing: 2px;
-    background-size: 50%;
+    background-size: 0%;
     background-size: contain;
     margin-left: 20%;
     margin-right: 20%;
@@ -32,6 +32,21 @@ body{
     outline-width: 20%;
     padding-top: 0.5%;
     padding-bottom: 1%;
+}      
+
+.writing h2{
+    color: white;
+    background-color: #96082c;
+    text-align: center;
+    font-family: 'Sorts Mill Goudy', serif;
+    word-spacing: 6px;
+    letter-spacing: 2px;
+    background-size: 50%;
+    background-size: contain;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px;
+    padding-top: 0.5%;
 }
 
 .top-bar
@@ -53,4 +68,24 @@ body{
     float: left;
     background-repeat: repeat-y;
     background-image: url("img/inkheart-cover-image.jpeg");
+}
+
+a:active{
+    text-decoration: none;
+    color: #d9ba2f;
+}
+
+a:visited{
+    text-decoration: none;
+    color: #d9ba2f;
+}
+
+a:link{
+    text-decoration: none;
+    color: #d9ba2f;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #d9ba2f;
 }
