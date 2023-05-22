@@ -68,6 +68,7 @@ body{
     float: left;
     background-repeat: repeat-y;
     background-image: url("img/inkheart-cover-image.jpeg");
+    margin-top: -2%;
 }
 
 a:active{
